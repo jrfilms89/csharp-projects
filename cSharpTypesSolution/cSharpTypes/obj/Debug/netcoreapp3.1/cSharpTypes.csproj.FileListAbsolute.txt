@@ -1,0 +1,13 @@
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\bin\Debug\netcoreapp3.1\cSharpTypes.exe
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\bin\Debug\netcoreapp3.1\cSharpTypes.deps.json
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\bin\Debug\netcoreapp3.1\cSharpTypes.runtimeconfig.json
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\bin\Debug\netcoreapp3.1\cSharpTypes.runtimeconfig.dev.json
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\bin\Debug\netcoreapp3.1\cSharpTypes.dll
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\bin\Debug\netcoreapp3.1\cSharpTypes.pdb
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\obj\Debug\netcoreapp3.1\cSharpTypes.csprojAssemblyReference.cache
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\obj\Debug\netcoreapp3.1\cSharpTypes.AssemblyInfoInputs.cache
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\obj\Debug\netcoreapp3.1\cSharpTypes.AssemblyInfo.cs
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\obj\Debug\netcoreapp3.1\cSharpTypes.csproj.CoreCompileInputs.cache
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\obj\Debug\netcoreapp3.1\cSharpTypes.dll
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\obj\Debug\netcoreapp3.1\cSharpTypes.pdb
+C:\repos\csharp-projects\cSharpTypesSolution\cSharpTypes\obj\Debug\netcoreapp3.1\cSharpTypes.genruntimeconfig.cache

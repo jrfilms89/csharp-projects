@@ -1,0 +1,12 @@
+C:\repos\csharp-projects\FindFactorial\FindFactorial\bin\Debug\netcoreapp3.1\FindFactorial.exe
+C:\repos\csharp-projects\FindFactorial\FindFactorial\bin\Debug\netcoreapp3.1\FindFactorial.deps.json
+C:\repos\csharp-projects\FindFactorial\FindFactorial\bin\Debug\netcoreapp3.1\FindFactorial.runtimeconfig.json
+C:\repos\csharp-projects\FindFactorial\FindFactorial\bin\Debug\netcoreapp3.1\FindFactorial.runtimeconfig.dev.json
+C:\repos\csharp-projects\FindFactorial\FindFactorial\bin\Debug\netcoreapp3.1\FindFactorial.dll
+C:\repos\csharp-projects\FindFactorial\FindFactorial\bin\Debug\netcoreapp3.1\FindFactorial.pdb
+C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.AssemblyInfoInputs.cache
+C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.AssemblyInfo.cs
+C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.csproj.CoreCompileInputs.cache
+C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.dll
+C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.pdb
+C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.genruntimeconfig.cache

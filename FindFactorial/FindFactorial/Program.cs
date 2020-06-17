@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HellowWorldProject {
+namespace FindFactorial {
     class Program {
 
         public static long Nn { get; private set; }
