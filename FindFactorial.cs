@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 
 namespace HellowWorldProject {
-    class Program {
+    class FindFactorial {
         public static int Nn { get; private set; }
         public static string N { get; private set; }
         public static bool calc { get; private set; }
