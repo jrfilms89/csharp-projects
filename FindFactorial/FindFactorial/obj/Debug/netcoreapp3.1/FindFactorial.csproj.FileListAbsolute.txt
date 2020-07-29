@@ -10,3 +10,4 @@ C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\Fin
 C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.dll
 C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.pdb
 C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.genruntimeconfig.cache
+C:\repos\csharp-projects\FindFactorial\FindFactorial\obj\Debug\netcoreapp3.1\FindFactorial.csprojAssemblyReference.cache

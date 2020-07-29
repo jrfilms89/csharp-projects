@@ -13,7 +13,8 @@ namespace FindFactorial {
             Console.WriteLine("**********************************************************");
 
             CheckIfInt();
-            Console.WriteLine(Nn);
+            Console.WriteLine($"Your Factorial is: {Nn}");
+            Console.ReadKey();
         }
         static void CheckIfInt() {
             N = Console.ReadLine();
